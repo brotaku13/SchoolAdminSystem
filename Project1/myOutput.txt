@@ -1,0 +1,184 @@
+Student Name: Grimm, Geraldine
+
+Student ID: 996633
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CHM348      Chemistry       4      A
+CSC201      ComputerSci     4      B
+HIS101      History         3      A
+
+Total numbr of credit hours: 11
+Current term GPA: 3.64
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Wayne, Bruce
+
+Student ID: 123456
+Number of courses enrolled: 5
+
+Course No  Course Name  Credits Grade
+CHM348      Chemistry       4      B
+CSC201      ComputerSci     4      B
+MTH345      Mathematics     4      A
+ENG101      English         3      A
+HIS101      History         3      A
+
+Total numbr of credit hours: 18
+Current term GPA: 3.56
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Rogers, Steven
+
+Student ID: 789456
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CHM348      Chemistry       4      A
+CSC201      ComputerSci     4      B
+HIS101      History         3      A
+
+Total numbr of credit hours: 11
+Current term GPA: 3.64
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Kent, Clark
+
+Student ID: 145632
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CSC201      ComputerSci     4    ***
+HIS101      History         3    ***
+BIO234      Biology         4    ***
+
+Total numbr of credit hours: 11
+*** Grades are being held for not paying the tuition. ***
+Amount due: $3.80e+03
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Richards, Reed
+
+Student ID: 159753
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CHM348      Chemistry       4      B
+MTH345      Mathematics     4      B
+ENG101      English         3      B
+
+Total numbr of credit hours: 11
+Current term GPA: 3.00
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Luthor, Lex
+
+Student ID: 345678
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CSC201      ComputerSci     4    ***
+HIS101      History         3    ***
+BIO234      Biology         4    ***
+
+Total numbr of credit hours: 11
+*** Grades are being held for not paying the tuition. ***
+Amount due: $3.80e+03
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Grimm, Benjamin
+
+Student ID: 645915
+Number of courses enrolled: 2
+
+Course No  Course Name  Credits Grade
+CHM348      Chemistry       4      A
+CSC150      ComputerSci     4      B
+
+Total numbr of credit hours: 8
+Current term GPA: 3.50
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Gordon, Barbara
+
+Student ID: 765345
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CSC201      ComputerSci     4    ***
+MTH345      Mathematics     4    ***
+BIO234      Biology         4    ***
+
+Total numbr of credit hours: 12
+*** Grades are being held for not paying the tuition. ***
+Amount due: $4.14e+03
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Holland, Alec
+
+Student ID: 324598
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CSC150      ComputerSci     4      A
+MTH345      Mathematics     4      B
+BIO234      Biology         4      A
+
+Total numbr of credit hours: 12
+Current term GPA: 3.67
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Parker, Peter
+
+Student ID: 654321
+Number of courses enrolled: 4
+
+Course No  Course Name  Credits Grade
+CSC150      ComputerSci     4      A
+CHM348      Chemistry       4      A
+ENG101      English         3      B
+BIO234      Biology         4      A
+
+Total numbr of credit hours: 15
+Current term GPA: 3.80
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Richards, Reed
+
+Student ID: 445566
+Number of courses enrolled: 3
+
+Course No  Course Name  Credits Grade
+CHM348      Chemistry       4      A
+MTH345      Mathematics     4      B
+BIO234      Biology         4      A
+
+Total numbr of credit hours: 12
+Current term GPA: 3.67
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Student Name: Gray, Kathleen
+
+Student ID: 112233
+Number of courses enrolled: 1
+
+Course No  Course Name  Credits Grade
+ENG101      English         3    ***
+
+Total numbr of credit hours: 3
+*** Grades are being held for not paying the tuition. ***
+Amount due: $1.04e+03
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
